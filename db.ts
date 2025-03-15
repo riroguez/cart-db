@@ -1,6 +1,4 @@
-import { CartType } from '../types';
-
-export const db: CartType[] = [
+export const db = [
   {
     id: 1,
     name: 'Keyboard',
